@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "ESNext",
+    "lib": [
+      "es2017",
+      "es7",
+      "es6",
+      "dom",
+      "ESNext"
+    ],
+    "declaration": true,
+    "outDir": "dist",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "exclude": [
+    "node_modules",
+    "dist"
+  ],
+  "include": [
+    "src",
+    "test"
+  ],
+  "jsx": "react",
+  "allowSyntheticDefaultImports": true,
+  "downlevelIteration": true,
+}

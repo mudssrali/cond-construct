@@ -1,0 +1,36 @@
+{
+  "name": "cond-construct",
+  "version": "1.0.0",
+  "description": "Elixir's cond construct like implementation Javascript and Typescript",
+  "main": "src/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mudassar045/cond-construct.git"
+  },
+  "keywords": [
+    "elixir-cond",
+    "control-flow",
+    "conditions",
+    "utilities",
+    "cond",
+    "control",
+    "elixir"
+  ],
+  "author": "Mudassar Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mudassar045/cond-construct/issues"
+  },
+  "homepage": "https://github.com/Mudassar045/cond-construct#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
