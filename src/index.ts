@@ -1,7 +1,7 @@
 export interface Cond {
-	(pairs: CondItem, options: CondOptions): unknown
+	(pairs: CondItem, options?: CondOptions): unknown
 }
-type CondItem = Array<[boolean, unknown | (() => unknown)]>
+type CondItem = Array<[boolean | number | '', unknown | (() => unknown)]>
 type CondOptions = { strict: boolean }
 
 const defaults = {
