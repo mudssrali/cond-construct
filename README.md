@@ -2,7 +2,7 @@
 
 Inspired by [Elixir's `cond`](https://elixir-lang.org/getting-started/case-cond-and-if.html#cond) this is a simpler alternative to [lodash's `_.cond`](https://lodash.com/docs/4.17.15#cond)
 
-[![CI status](https://circleci.com/gh/mudassar045/cond-construct.svg?style=shield)](LINK)
+[![CI status](https://circleci.com/gh/Mudassar045/cond-construct.svg?style=shield)](LINK)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 
