@@ -6,21 +6,20 @@
       "es2017",
       "es7",
       "es6",
-      "dom",
       "ESNext"
     ],
     "declaration": true,
     "outDir": "dist",
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "moduleResolution": "node"
   },
   "exclude": [
     "node_modules",
-    "dist"
+    "dist",
   ],
   "include": [
     "src",
-    "test"
   ],
   "jsx": "react",
   "allowSyntheticDefaultImports": true,
