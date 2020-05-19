@@ -5,9 +5,13 @@ Inspired by [Elixir's `cond`](https://elixir-lang.org/getting-started/case-cond-
 [![CI status](https://circleci.com/gh/Mudassar045/cond-construct.svg?style=shield)](LINK)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
+<a aria-label="Package size" href="https://bundlephobia.com/result?p=cond-construct">
+  <img alt="" src="https://badgen.net/bundlephobia/minzip/cond-construct">
+</a>
 <a href="https://github.com/mudassar045/cond-construct" target="\_parent">
   <img alt="" src="https://img.shields.io/github/stars/mudassar045/cond-construct.svg?style=social&label=Star" />
-</a><a href="https://twitter.com/voidwebdev" target="\_parent">
+</a>
+<a href="https://twitter.com/voidwebdev" target="\_parent">
   <img alt="" src="https://img.shields.io/twitter/follow/voidwebdev.svg?style=social&label=Follow" />
 </a>
 
