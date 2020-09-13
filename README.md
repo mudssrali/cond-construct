@@ -11,8 +11,8 @@ Inspired by [Elixir's `cond`](https://elixir-lang.org/getting-started/case-cond-
 <a href="https://github.com/mudassar045/cond-construct" target="\_parent">
   <img alt="" src="https://img.shields.io/github/stars/mudassar045/cond-construct.svg?style=social&label=Star" />
 </a>
-<a href="https://twitter.com/voidwebdev" target="\_parent">
-  <img alt="" src="https://img.shields.io/twitter/follow/voidwebdev.svg?style=social&label=Follow" />
+<a href="https://twitter.com/mudssrali" target="\_parent">
+  <img alt="" src="https://img.shields.io/twitter/follow/mudssrali.svg?style=social&label=Follow" />
 </a>
 
 
