@@ -1,7 +1,5 @@
 # cond-construct
 
-## [Copied from Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow)
-
 Inspired by [Elixir's `cond`](https://elixir-lang.org/getting-started/case-cond-and-if.html#cond) this is a simpler alternative to [lodash's `_.cond`](https://lodash.com/docs/4.17.15#cond)
 
 [![CI status](https://circleci.com/gh/Mudassar045/cond-construct.svg?style=shield)](LINK)
@@ -88,6 +86,14 @@ const Component = ({ hasErrors, isNew, isLoading }) => (
 )
 ```
 
+### Next
+
+- [] Handle multiple method executions
+- [] Add more option for falsy value
+
 ### Note
 
 As all predicates have to be evaluated before the right branch can be chosen, it can have a negative performance impact if you rely on heavy computations here. It's best have simple booleans and resort to `_.cond` for complex use cases.
+
+If you're looking for `Javascript` implementation you can find at [Original from Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow).
+
