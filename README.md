@@ -15,6 +15,7 @@ Inspired by [Elixir's `cond`](https://elixir-lang.org/getting-started/case-cond-
   <img alt="" src="https://img.shields.io/twitter/follow/mudssrali.svg?style=social&label=Follow" />
 </a>
 
+## Note: If you're looking for `Javascript` implementation you can find at [Original from Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow).
 
 ## Install
 
@@ -95,5 +96,4 @@ const Component = ({ hasErrors, isNew, isLoading }) => (
 
 As all predicates have to be evaluated before the right branch can be chosen, it can have a negative performance impact if you rely on heavy computations here. It's best have simple booleans and resort to `_.cond` for complex use cases.
 
-If you're looking for `Javascript` implementation you can find at [Original from Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow).
-
+I created this for just learning purpose for creating and publishing package to `npm.js`. If you're looking for production use-case please use `Javascript` implementation by [Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow). Thanks
