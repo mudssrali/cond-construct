@@ -15,7 +15,7 @@ Inspired by [Elixir's `cond`](https://elixir-lang.org/getting-started/case-cond-
   <img alt="" src="https://img.shields.io/twitter/follow/mudssrali.svg?style=social&label=Follow" />
 </a>
 
-## Note: If you're looking for `Javascript` implementation you can find at [Original from Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow).
+## Note: If you're looking for `Javascript` implementation you can find at [Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow).
 
 ## Install
 
