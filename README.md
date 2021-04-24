@@ -2,20 +2,12 @@
 
 Inspired by [Elixir's `cond`](https://elixir-lang.org/getting-started/case-cond-and-if.html#cond) this is a simpler alternative to [lodash's `_.cond`](https://lodash.com/docs/4.17.15#cond)
 
-[![CI status](https://circleci.com/gh/Mudassar045/cond-construct.svg?style=shield)](LINK)
+[![CI status](https://circleci.com/gh/mudssrali/cond-construct.svg?style=shield)](LINK)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
 <a aria-label="Package size" href="https://bundlephobia.com/result?p=cond-construct">
   <img alt="" src="https://badgen.net/bundlephobia/minzip/cond-construct">
 </a>
-<a href="https://github.com/mudassar045/cond-construct" target="\_parent">
-  <img alt="" src="https://img.shields.io/github/stars/mudassar045/cond-construct.svg?style=social&label=Star" />
-</a>
-<a href="https://twitter.com/mudssrali" target="\_parent">
-  <img alt="" src="https://img.shields.io/twitter/follow/mudssrali.svg?style=social&label=Follow" />
-</a>
-
-## Note: If you're looking for `Javascript` implementation you can find at [Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow).
 
 ## Install
 
