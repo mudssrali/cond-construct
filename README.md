@@ -87,5 +87,3 @@ const Component = ({ hasErrors, isNew, isLoading }) => (
 ### Note
 
 As all predicates have to be evaluated before the right branch can be chosen, it can have a negative performance impact if you rely on heavy computations here. It's best have simple booleans and resort to `_.cond` for complex use cases.
-
-I created this for just learning purpose for creating and publishing package to `npm.js`. If you're looking for production use-case please use `Javascript` implementation by [Erik Muller - Cond-Flow](https://github.com/erikmueller/cond-flow). Thanks
