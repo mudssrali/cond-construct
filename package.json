@@ -1,7 +1,7 @@
 {
   "name": "cond-construct",
-  "version": "1.0.1",
-  "description": "Elixir's cond construct like implementation Javascript and Typescript",
+  "version": "1.0.2",
+  "description": "Elixir's cond construct like implementation for Javascript and Typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mudassar045/cond-construct.git"
+    "url": "git+https://github.com/mudssrali/cond-construct.git"
   },
   "keywords": [
     "elixir-cond",
@@ -28,9 +28,9 @@
   "author": "Mudassar Ali",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mudassar045/cond-construct/issues"
+    "url": "https://github.com/mudssrali/cond-construct/issues"
   },
-  "homepage": "https://github.com/Mudassar045/cond-construct#readme",
+  "homepage": "https://github.com/mudssrali/cond-construct#readme",
   "devDependencies": {
     "@types/jest": "^25.2.1",
     "jest": "^25.5.4",
